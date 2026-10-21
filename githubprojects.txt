@@ -18,6 +18,7 @@ https://github.com/EnzoToniato567/Flutter-Rotas-Nativo.git
 https://github.com/EnzoToniato567/Flutter-Maps.git 
 https://github.com/EnzoToniato567/Flutter-Google-Maps.git
 https://github.com/EnzoToniato567/Flutter-API-Google-Maps.git
+https://github.com/EnzoToniato567/Flutter-Receitas-API.git
 
 frontend
 
@@ -28,13 +29,29 @@ https://github.com/EnzoToniato567/Pedra_Papel_Tesoura.git - https://enzotoniato5
 https://github.com/EnzoToniato567/Album-Copa_2026.git - https://enzotoniato567.github.io/Album-Copa_2026
 https://github.com/EnzoToniato567/Valor-Dolar.git - https://enzotoniato567.github.io/Valor-Dolar
 
+python
+
+https://github.com/EnzoToniato567/Python-Algoritmos.git
+
+react 
+
+https://github.com/EnzoToniato567/StarWars-Galactic-Duel.git
+
 fullstack 
 
 https://github.com/EnzoToniato567/just_in_time_01_2026.git 
 https://github.com/EnzoToniato567/GitParty_Fullstack.git
 https://github.com/EnzoToniato567/Estacionamento-FullStack.git
+https://github.com/EnzoToniato567/Escola-Avaliacao.git
+https://github.com/EnzoToniato567/Hotel-Reservas.git
+https://github.com/EnzoToniato567/Daily_Check.git
+https://github.com/EnzoToniato567/UltraTech-Store.git
 
 c
 
 https://github.com/EnzoToniato567/Arquivos-C.git
 https://github.com/EnzoToniato567/Repositorio-LOP.git
+
+backend
+
+https://github.com/EnzoToniato567/Backend-Receitas-Flutter.git

@@ -226,6 +226,7 @@ img { display: block; max-width: 100%; }
 .filter-button { min-height: 37px; padding: 7px 13px; border: 1px solid var(--line); border-radius: 9px; color: var(--muted); background: color-mix(in srgb, var(--panel) 88%, transparent); font-size: 0.78rem; cursor: pointer; transition: color 180ms ease, background 180ms ease, border-color 180ms ease; }
 .filter-button:hover, .filter-button.active { border-color: color-mix(in srgb, var(--acid) 65%, transparent); color: var(--on-accent); background: var(--acid); }
 .archive-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; padding-top: 30px; }
+.archive-card[hidden], .project-group[hidden] { display: none !important; }
 .project-group { grid-column: 1 / -1; display: grid; grid-template-columns: minmax(110px, 0.2fr) minmax(220px, 0.5fr) 1fr; gap: 16px; align-items: baseline; margin-top: 28px; padding: 0 0 15px; border-bottom: 1px solid var(--line); }
 .project-group:first-child { margin-top: 0; }
 .project-group p { margin: 0; color: var(--acid); font-family: var(--mono); font-size: 0.69rem; letter-spacing: 0.08em; text-transform: uppercase; }
@@ -235,6 +236,7 @@ img { display: block; max-width: 100%; }
 .archive-card:hover { transform: translateY(-5px); border-color: color-mix(in srgb, var(--acid) 52%, transparent); box-shadow: 0 14px 28px color-mix(in srgb, var(--acid) 9%, transparent); }
 .archive-icon { display: grid; width: 62px; height: 62px; place-items: center; margin-bottom: 27px; background: rgba(118, 186, 255, 0.14); }
 .archive-icon img { width: 36px; height: 36px; object-fit: contain; }
+.archive-icon-label { color: var(--acid); font-family: var(--mono); font-size: 1.25rem; font-weight: 700; }
 .archive-icon.green { background: rgba(85, 229, 164, 0.13); }.archive-icon.orange { background: rgba(255, 182, 109, 0.13); }.archive-icon.blue { background: rgba(118, 186, 255, 0.13); }.archive-icon.purple { background: rgba(192, 154, 255, 0.13); }
 .archive-card h2 { margin: 0; font-size: 1.48rem; font-weight: 500; letter-spacing: -0.045em; }
 .card-stack { margin: 11px 0 0; color: var(--acid); font-family: var(--mono); font-size: 0.69rem; line-height: 1.6; }

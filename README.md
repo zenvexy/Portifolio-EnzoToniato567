@@ -11,7 +11,7 @@ Portfólio pessoal para apresentar meus projetos, habilidades e formas de contat
 ## Recursos
 
 - Página inicial com apresentação, sobre, skills e projetos em destaque
-- Página com projetos Flutter, Frontend e Full-stack
+- Página com projetos Flutter, C, Frontend, Python, React, Full-stack e Backend
 - Links para GitHub, e-mail, WhatsApp e Instagram
 - Layout responsivo para celular e desktop
 

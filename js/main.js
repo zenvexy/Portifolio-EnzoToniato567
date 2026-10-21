@@ -2,7 +2,7 @@ const resources = {
   pt: {
     translation: {
       controls: { theme: 'Tema', language: 'Idioma', menu: 'Abrir menu', projectFilter: 'Filtrar projetos' },
-      page: { homeTitle: 'Enzo Toniato | Desenvolvedor', projectsTitle: 'Projetos | Enzo Toniato', homeDescription: 'Portfólio de Enzo Toniato, desenvolvedor full-stack em formação.', projectsDescription: 'Projetos em C, Flutter, frontend e full-stack de Enzo Toniato.' },
+      page: { homeTitle: 'Enzo Toniato | Desenvolvedor', projectsTitle: 'Projetos | Enzo Toniato', homeDescription: 'Portfólio de Enzo Toniato, desenvolvedor full-stack em formação.', projectsDescription: 'Projetos de Flutter, C, frontend, React, Python, full-stack e backend de Enzo Toniato.' },
       themes: { light: 'Claro' },
       nav: ['Início', 'Sobre', 'Skills', 'Projetos', 'Contato'],
       home: {
@@ -26,7 +26,7 @@ const resources = {
       skills: {
         eyebrow: '02 / Tecnologias', title: 'Minha stack e<br><span>ferramentas.</span>', tools: 'Outras ferramentas',
         groups: [['Tecnologias', 'Linguagens e frameworks para interfaces e aplicações.'], ['Backend e dados', 'Serviços, APIs, bancos de dados e ambiente local.'], ['Ferramentas', 'Ferramentas que apoiam o fluxo de desenvolvimento.']],
-        cards: [['Mobile', 'Experiência prática', 'Framework para aplicativos multiplataforma com interfaces responsivas e componentes reutilizáveis.'], ['Linguagem mobile', 'Experiência prática', 'Linguagem utilizada para criar aplicativos modernos e eficientes com Flutter.'], ['Web', 'Experiência prática', 'Estrutura semântica e acessível para páginas e aplicações web.'], ['Web', 'Experiência prática', 'Estilização, layouts responsivos e identidade visual para interfaces web.'], ['Linguagem', 'Experiência prática', 'Fundamentos de lógica, estruturas de dados e programação estruturada.'], ['Web', 'Experiência prática', 'Interações no navegador, consumo de APIs e lógica para aplicações web.'], ['Backend', 'Experiência prática', 'APIs REST, rotas, integrações e regras de negócio no backend.'], ['Dados', 'Experiência prática', 'Modelagem relacional, consultas SQL e organização consistente de dados.'], ['Dados', 'Experiência prática', 'Integração tipada entre aplicações Node.js e bancos de dados relacionais.'], ['Backend as a Service', 'Serviços em nuvem', 'Autenticação, banco de dados e hospedagem para acelerar aplicações.'], ['Backend as a Service', 'PostgreSQL e APIs', 'Backend com banco de dados, autenticação e APIs prontas.'], ['Terminal', 'Linha de comando', 'Terminal para comandos Git e organização do fluxo de versionamento.'], ['Versionamento', 'Colaboração', 'Versionamento, colaboração e publicação dos repositórios de código.'], ['Editor', 'Ambiente de desenvolvimento', 'Editor para desenvolvimento, extensões e depuração de projetos.'], ['Testes de API', 'Requisições HTTP', 'Testes de endpoints e validação de APIs REST.'], ['Build tool', 'Frontend moderno', 'Ferramenta de build para projetos web rápidos e eficientes.'], ['Ambiente local', 'Servidor local', 'Ambiente para executar e testar aplicações web localmente.'], ['Modelagem', 'Diagramas', 'Diagramas de fluxo, arquitetura e modelos entidade-relacionamento.']]
+        cards: [['Mobile', 'Experiência prática', 'Framework para aplicativos multiplataforma com interfaces responsivas e componentes reutilizáveis.'], ['Linguagem mobile', 'Experiência prática', 'Linguagem utilizada para criar aplicativos modernos e eficientes com Flutter.'], ['Web', 'Experiência prática', 'Estrutura semântica e acessível para páginas e aplicações web.'], ['Web', 'Experiência prática', 'Estilização, layouts responsivos e identidade visual para interfaces web.'], ['Linguagem', 'Experiência prática', 'Fundamentos de lógica, estruturas de dados e programação estruturada.'], ['Linguagem', 'Experiência prática', 'Algoritmos, lógica de programação e scripts em Python.'], ['Web', 'Experiência prática', 'Interações no navegador, consumo de APIs e lógica para aplicações web.'], ['Biblioteca web', 'Experiência prática', 'Interfaces web interativas com componentes reutilizáveis em React.'], ['Backend', 'Experiência prática', 'APIs REST, rotas, integrações e regras de negócio no backend.'], ['Dados', 'Experiência prática', 'Modelagem relacional, consultas SQL e organização consistente de dados.'], ['Dados', 'Experiência prática', 'Integração tipada entre aplicações Node.js e bancos de dados relacionais.'], ['Backend as a Service', 'Serviços em nuvem', 'Autenticação, banco de dados e hospedagem para acelerar aplicações.'], ['Backend as a Service', 'PostgreSQL e APIs', 'Backend com banco de dados, autenticação e APIs prontas.'], ['Terminal', 'Linha de comando', 'Terminal para comandos Git e organização do fluxo de versionamento.'], ['Versionamento', 'Colaboração', 'Versionamento, colaboração e publicação dos repositórios de código.'], ['Editor', 'Ambiente de desenvolvimento', 'Editor para desenvolvimento, extensões e depuração de projetos.'], ['Testes de API', 'Requisições HTTP', 'Testes de endpoints e validação de APIs REST.'], ['Build tool', 'Frontend moderno', 'Ferramenta de build para projetos web rápidos e eficientes.'], ['Ambiente local', 'Servidor local', 'Ambiente para executar e testar aplicações web localmente.'], ['Modelagem', 'Diagramas', 'Diagramas de fluxo, arquitetura e modelos entidade-relacionamento.']]
       },
       featured: {
         eyebrow: '03 / Projetos', title: 'Projetos em<br><span>destaque.</span>', all: 'Ver arquivo completo <span>↗</span>', details: 'Ver detalhes <span>→</span>',
@@ -34,7 +34,7 @@ const resources = {
         whatsapp: 'Interface de uma cafeteria construída com React, JavaScript e Vite.'
       },
       contact: { eyebrow: 'Vamos conversar', title: 'Tem uma ideia para construir?', description: 'Vamos transformar sua ideia em um produto digital.', email: 'E-mail', social: 'Também estou em' },
-      archive: { eyebrow: 'Projetos / 26 selecionados', title: 'Ideias transformadas<br>em <span>experiências digitais.</span>', description: 'Projetos desenvolvidos com C, Flutter, tecnologias web e soluções full-stack.', all: 'Todos', c: 'C', flutter: 'Flutter', frontend: 'Frontend', fullstack: 'Full-stack', hint: 'Passe o cursor sobre um card para ver a descrição.', github: 'Ver no GitHub', visit: 'Visitar site', groups: [['Aplicativos mobile', '15 projetos em 17 repositórios com Dart, Flutter e integrações com APIs.'], ['Fundamentos de programação', '2 repositórios com lógica, exercícios e programação estruturada.'], ['Experiências para web', '6 projetos com HTML, CSS, JavaScript, React e Vite.'], ['Aplicações completas', '3 projetos com integração entre frontend, backend e dados.']] },
+      archive: { eyebrow: 'Projetos / 35 selecionados', title: 'Ideias transformadas<br>em <span>experiências digitais.</span>', description: 'Projetos desenvolvidos com C, Flutter, Python, React e soluções web e backend.', all: 'Todos', c: 'C', flutter: 'Flutter', frontend: 'Frontend', python: 'Python', react: 'React', fullstack: 'Full-stack', backend: 'Backend', hint: 'Passe o cursor sobre um card para ver a descrição.', github: 'Ver no GitHub', visit: 'Visitar site', groups: [['Aplicativos mobile', '17 projetos em 19 repositórios com Dart, Flutter e integrações com APIs.'], ['Fundamentos de programação', '2 repositórios com lógica, exercícios e programação estruturada.'], ['Experiências para web', '6 projetos com HTML, CSS, JavaScript, React e Vite.'], ['Algoritmos em Python', '1 repositório com exercícios e lógica de programação.'], ['Interfaces em React', '1 projeto de interface interativa com React.'], ['Aplicações completas', '7 projetos com integração entre frontend, backend e dados.'], ['APIs e serviços', '1 repositório de backend para integração com Flutter.']] },
       cards: [
         ['Financiamento', 'Aplicativo para simular valores, parcelas e condições de financiamento.'],
         ['Quiz Flutter', 'Aplicativo de perguntas e respostas com interação e pontuação.'],
@@ -51,6 +51,8 @@ const resources = {
         ['GPS', 'Aplicativo Flutter com recursos de localização e dados de GPS.'],
         ['Rotas e Mapas', 'Projeto de navegação que reúne rotas nativas e visualização de mapas.'],
         ['Google Maps e API', 'Projeto que combina mapas do Google com consumo e integração de sua API.'],
+        ['Projeto Flutter', 'Projeto de aplicativo desenvolvido com Flutter.'],
+        ['Receitas com API', 'Aplicativo Flutter de receitas com integração a uma API.'],
         ['Arquivos C', 'Coleção de exercícios e arquivos desenvolvidos na linguagem C.'],
         ['Repositório LOP', 'Repositório de atividades da disciplina de Lógica de Programação em C.'],
         ['Cafeteria Aroma', 'Interface de uma cafeteria criada com JavaScript, React e Vite.'],
@@ -59,16 +61,23 @@ const resources = {
         ['Pedra, Papel e Tesoura', 'Versão web do jogo clássico com lógica feita em JavaScript.'],
         ['Álbum Copa 2026', 'Aplicação web inspirada em um álbum de figurinhas da Copa do Mundo.'],
         ['Valor do Dólar', 'Aplicação web para consultar e apresentar a cotação do dólar.'],
+        ['Python Algoritmos', 'Repositório de algoritmos e exercícios em Python.'],
+        ['Star Wars Galactic Duel', 'Projeto de duelo temático de Star Wars desenvolvido com React.'],
         ['Just in Time', 'Projeto full-stack desenvolvido para praticar uma aplicação completa.'],
+        ['Escola Avaliação', 'Projeto de avaliação escolar com interface e backend.'],
+        ['Hotel Reservas', 'Projeto de reservas de hotel com interface e backend.'],
+        ['Daily Check', 'Aplicação para organizar verificações e atividades diárias.'],
+        ['UltraTech Store', 'Projeto de loja online com interface e backend.'],
         ['GitParty', 'Aplicação full-stack criada para explorar integração entre frontend e backend.'],
-        ['Estacionamento', 'Sistema full-stack voltado ao controle e gerenciamento de estacionamento.']
+        ['Estacionamento', 'Sistema full-stack voltado ao controle e gerenciamento de estacionamento.'],
+        ['Backend Receitas Flutter', 'Backend de receitas para integração com aplicativo Flutter.']
       ]
     }
   },
   en: {
     translation: {
       controls: { theme: 'Theme', language: 'Language', menu: 'Open menu', projectFilter: 'Filter projects' },
-      page: { homeTitle: 'Enzo Toniato | Developer', projectsTitle: 'Projects | Enzo Toniato', homeDescription: 'Portfolio of Enzo Toniato, a full-stack developer in training.', projectsDescription: 'C, Flutter, frontend, and full-stack projects by Enzo Toniato.' },
+      page: { homeTitle: 'Enzo Toniato | Developer', projectsTitle: 'Projects | Enzo Toniato', homeDescription: 'Portfolio of Enzo Toniato, a full-stack developer in training.', projectsDescription: 'Flutter, C, frontend, React, Python, full-stack, and backend projects by Enzo Toniato.' },
       themes: { light: 'Light' },
       nav: ['Home', 'About', 'Skills', 'Projects', 'Contact'],
       home: {
@@ -92,7 +101,7 @@ const resources = {
       skills: {
         eyebrow: '02 / Technologies', title: 'My stack and<br><span>tools.</span>', tools: 'Other tools',
         groups: [['Technologies', 'Languages and frameworks for interfaces and applications.'], ['Backend and data', 'Services, APIs, databases, and local environment.'], ['Tools', 'Tools that support the development workflow.']],
-        cards: [['Mobile', 'Practical experience', 'A framework for cross-platform apps with responsive interfaces and reusable components.'], ['Mobile language', 'Practical experience', 'The language used to create modern, efficient Flutter applications.'], ['Web', 'Practical experience', 'Semantic, accessible structure for web pages and applications.'], ['Web', 'Practical experience', 'Styling, responsive layouts, and visual identity for web interfaces.'], ['Language', 'Practical experience', 'Programming logic, data structures, and structured programming fundamentals.'], ['Web', 'Practical experience', 'Browser interactions, API consumption, and logic for web applications.'], ['Backend', 'Practical experience', 'REST APIs, routes, integrations, and backend business rules.'], ['Data', 'Practical experience', 'Relational modeling, SQL queries, and consistent data organization.'], ['Data', 'Practical experience', 'Typed integration between Node.js applications and relational databases.'], ['Backend as a Service', 'Cloud services', 'Authentication, database, and hosting to speed up applications.'], ['Backend as a Service', 'PostgreSQL and APIs', 'A backend with database, authentication, and ready-to-use APIs.'], ['Terminal', 'Command line', 'A terminal for Git commands and version-control workflow organization.'], ['Version control', 'Collaboration', 'Version control, collaboration, and publication of code repositories.'], ['Editor', 'Development environment', 'An editor for development, extensions, and project debugging.'], ['API testing', 'HTTP requests', 'Endpoint testing and REST API validation.'], ['Build tool', 'Modern frontend', 'A build tool for fast and efficient web projects.'], ['Local environment', 'Local server', 'An environment to run and test web applications locally.'], ['Modeling', 'Diagrams', 'Flow, architecture, and entity-relationship diagrams.']]
+        cards: [['Mobile', 'Practical experience', 'A framework for cross-platform apps with responsive interfaces and reusable components.'], ['Mobile language', 'Practical experience', 'The language used to create modern, efficient Flutter applications.'], ['Web', 'Practical experience', 'Semantic, accessible structure for web pages and applications.'], ['Web', 'Practical experience', 'Styling, responsive layouts, and visual identity for web interfaces.'], ['Language', 'Practical experience', 'Programming logic, data structures, and structured programming fundamentals.'], ['Language', 'Practical experience', 'Algorithms, programming logic, and scripts in Python.'], ['Web', 'Practical experience', 'Browser interactions, API consumption, and logic for web applications.'], ['Web library', 'Practical experience', 'Interactive web interfaces with reusable components in React.'], ['Backend', 'Practical experience', 'REST APIs, routes, integrations, and backend business rules.'], ['Data', 'Practical experience', 'Relational modeling, SQL queries, and consistent data organization.'], ['Data', 'Practical experience', 'Typed integration between Node.js applications and relational databases.'], ['Backend as a Service', 'Cloud services', 'Authentication, database, and hosting to speed up applications.'], ['Backend as a Service', 'PostgreSQL and APIs', 'A backend with database, authentication, and ready-to-use APIs.'], ['Terminal', 'Command line', 'A terminal for Git commands and version-control workflow organization.'], ['Version control', 'Collaboration', 'Version control, collaboration, and publication of code repositories.'], ['Editor', 'Development environment', 'An editor for development, extensions, and project debugging.'], ['API testing', 'HTTP requests', 'Endpoint testing and REST API validation.'], ['Build tool', 'Modern frontend', 'A build tool for fast and efficient web projects.'], ['Local environment', 'Local server', 'An environment to run and test web applications locally.'], ['Modeling', 'Diagrams', 'Flow, architecture, and entity-relationship diagrams.']]
       },
       featured: {
         eyebrow: '03 / Projects', title: 'Featured<br><span>projects.</span>', all: 'View complete archive <span>↗</span>', details: 'View details <span>→</span>',
@@ -100,7 +109,7 @@ const resources = {
         whatsapp: 'A coffee shop interface built with React, JavaScript, and Vite.'
       },
       contact: { eyebrow: 'Let’s talk', title: 'Have an idea to build?', description: 'Let’s turn your idea into a digital product.', email: 'Email', social: 'You can also find me on' },
-      archive: { eyebrow: 'Projects / 26 selected', title: 'Ideas transformed<br>into <span>digital experiences.</span>', description: 'Projects built with C, Flutter, web technologies, and full-stack solutions.', all: 'All', c: 'C', flutter: 'Flutter', frontend: 'Frontend', fullstack: 'Full-stack', hint: 'Hover over a card to see its description.', github: 'View on GitHub', visit: 'Visit website', groups: [['Mobile applications', '15 projects across 17 repositories using Dart, Flutter, and API integrations.'], ['Programming fundamentals', '2 repositories with logic, exercises, and structured programming.'], ['Web experiences', '6 projects with HTML, CSS, JavaScript, React, and Vite.'], ['Complete applications', '3 projects integrating frontend, backend, and data.']] },
+      archive: { eyebrow: 'Projects / 35 selected', title: 'Ideas transformed<br>into <span>digital experiences.</span>', description: 'Projects built with C, Flutter, Python, React, and web and backend technologies.', all: 'All', c: 'C', flutter: 'Flutter', frontend: 'Frontend', python: 'Python', react: 'React', fullstack: 'Full-stack', backend: 'Backend', hint: 'Hover over a card to see its description.', github: 'View on GitHub', visit: 'Visit website', groups: [['Mobile applications', '17 projects across 19 repositories using Dart, Flutter, and API integrations.'], ['Programming fundamentals', '2 repositories with logic, exercises, and structured programming.'], ['Web experiences', '6 projects with HTML, CSS, JavaScript, React, and Vite.'], ['Python algorithms', '1 repository with exercises and programming logic.'], ['React interfaces', '1 interactive interface project built with React.'], ['Complete applications', '7 projects integrating frontend, backend, and data.'], ['APIs and services', '1 backend repository for Flutter integration.']] },
       cards: [
         ['Financing', 'An app to simulate financing amounts, installments, and terms.'],
         ['Flutter Quiz', 'A question-and-answer application with interaction and scoring.'],
@@ -117,6 +126,8 @@ const resources = {
         ['GPS', 'A Flutter app featuring location services and GPS data.'],
         ['Routes and Maps', 'A navigation project combining native routes and map visualization.'],
         ['Google Maps and API', 'A project combining Google maps with API consumption and integration.'],
+        ['Flutter Project', 'An application project built with Flutter.'],
+        ['Recipes with API', 'A Flutter recipe app integrated with an API.'],
         ['C Files', 'A collection of exercises and files developed in the C language.'],
         ['LOP Repository', 'A repository of Programming Logic course activities in C.'],
         ['Cafeteria Aroma', 'A coffee shop interface built with JavaScript, React, and Vite.'],
@@ -125,9 +136,16 @@ const resources = {
         ['Rock, Paper, Scissors', 'A web version of the classic game built with JavaScript logic.'],
         ['2026 World Cup Album', 'A web app inspired by a World Cup collectible sticker album.'],
         ['Dollar Value', 'A web application to look up and display the dollar exchange rate.'],
+        ['Python Algorithms', 'A repository of algorithms and exercises in Python.'],
+        ['Star Wars Galactic Duel', 'A Star Wars themed duel project built with React.'],
         ['Just in Time', 'A full-stack project built to practice a complete application.'],
+        ['School Evaluation', 'A school evaluation project with an interface and backend.'],
+        ['Hotel Reservations', 'A hotel reservation project with an interface and backend.'],
+        ['Daily Check', 'An application for organizing daily checks and activities.'],
+        ['UltraTech Store', 'An online store project with an interface and backend.'],
         ['GitParty', 'A full-stack application built to explore frontend and backend integration.'],
-        ['Parking', 'A full-stack system for parking control and management.']
+        ['Parking', 'A full-stack system for parking control and management.'],
+        ['Flutter Recipes Backend', 'A recipe backend for integration with a Flutter app.']
       ]
     }
   }
@@ -186,7 +204,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     'Estrutura semântica e acessível para páginas e aplicações web.',
     'Estilização, layouts responsivos e identidade visual para interfaces web.',
     'Fundamentos de lógica, estruturas de dados e programação estruturada.',
+    'Algoritmos, lógica de programação e scripts em Python.',
     'Interações no navegador, consumo de APIs e lógica para aplicações web.',
+    'Interfaces web interativas com componentes reutilizáveis em React.',
     'APIs REST, rotas, integrações e regras de negócio no backend.',
     'Modelagem relacional, consultas SQL e organização consistente de dados.',
     'Integração tipada entre aplicações Node.js e bancos de dados relacionais.'
@@ -295,7 +315,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       setText('.archive-hero > p:not(.eyebrow)', t('archive.description'));
       const filterBar = document.querySelector('.filter-bar');
       if (filterBar) filterBar.setAttribute('aria-label', t('controls.projectFilter'));
-      ['all', 'c', 'flutter', 'frontend', 'fullstack'].forEach((key) => setText(`[data-filter="${key}"]`, t(`archive.${key}`)));
+      ['all', 'c', 'flutter', 'frontend', 'python', 'react', 'fullstack', 'backend'].forEach((key) => setText(`[data-filter="${key}"]`, t(`archive.${key}`)));
       setText('.filter-hint', t('archive.hint'));
       document.querySelectorAll('.project-group').forEach((group, index) => {
         const values = t(`archive.groups.${index}`, { returnObjects: true });
