@@ -34,7 +34,7 @@ const resources = {
         whatsapp: 'Interface de uma cafeteria construída com React, JavaScript e Vite.'
       },
       contact: { eyebrow: 'Vamos conversar', title: 'Tem uma ideia para construir?', description: 'Vamos transformar sua ideia em um produto digital.', email: 'E-mail', social: 'Também estou em' },
-      archive: { eyebrow: 'Projetos / 36 selecionados', title: 'Ideias transformadas<br>em <span>experiências digitais.</span>', description: 'Projetos desenvolvidos com C, Flutter, Python, React e soluções web e backend.', all: 'Todos', c: 'C', flutter: 'Flutter', frontend: 'Frontend', python: 'Python', react: 'React', fullstack: 'Full-stack', backend: 'Backend', hint: 'Passe o cursor sobre um card para ver a descrição.', github: 'Ver no GitHub', visit: 'Visitar site', groups: [['Aplicativos mobile', '17 projetos em 19 repositórios com Dart, Flutter e integrações com APIs.'], ['Fundamentos de programação', '2 repositórios com lógica, exercícios e programação estruturada.'], ['Experiências para web', '6 projetos com HTML, CSS, JavaScript, React e Vite.'], ['Algoritmos em Python', '1 repositório com exercícios e lógica de programação.'], ['Interfaces em React', '1 projeto de interface interativa com React.'], ['Aplicações completas', '8 projetos com integração entre frontend, backend e dados.'], ['APIs e serviços', '1 repositório de backend para integração com Flutter.']] },
+      archive: { eyebrow: 'Projetos / 38 selecionados', title: 'Ideias transformadas<br>em <span>experiências digitais.</span>', description: 'Projetos desenvolvidos com C, Flutter, Python, React e soluções web e backend.', all: 'Todos', c: 'C', flutter: 'Flutter', frontend: 'Frontend', python: 'Python', react: 'React', fullstack: 'Full-stack', backend: 'Backend', hint: 'Passe o cursor sobre um card para ver a descrição.', github: 'Ver no GitHub', visit: 'Visitar site', groups: [['Aplicativos mobile', '17 projetos em 19 repositórios com Dart, Flutter e integrações com APIs.'], ['Fundamentos de programação', '2 repositórios com lógica, exercícios e programação estruturada.'], ['Experiências para web', '7 projetos com HTML, CSS, JavaScript, React, Vite e integração com APIs.'], ['Projetos em Python', '2 projetos com algoritmos e aplicação web em Flask.'], ['Interfaces em React', '1 projeto de interface interativa com React.'], ['Aplicações completas', '8 projetos com integração entre frontend, backend e dados.'], ['APIs e serviços', '1 repositório de backend para integração com Flutter.']] },
       cards: [
         ['Financiamento', 'Aplicativo para simular valores, parcelas e condições de financiamento.'],
         ['Quiz Flutter', 'Aplicativo de perguntas e respostas com interação e pontuação.'],
@@ -61,7 +61,9 @@ const resources = {
         ['Pedra, Papel e Tesoura', 'Versão web do jogo clássico com lógica feita em JavaScript.'],
         ['Álbum Copa 2026', 'Aplicação web inspirada em um álbum de figurinhas da Copa do Mundo.'],
         ['Valor do Dólar', 'Aplicação web para consultar e apresentar a cotação do dólar.'],
+        ['Receitas Fullstack API', 'Interface de receitas com consulta, cadastro, edição e exclusão via API REST.'],
         ['Python Algoritmos', 'Repositório de algoritmos e exercícios em Python.'],
+        ['Livros com Flask', 'Projeto de cadastro de livros com interface web e API em Flask.'],
         ['Star Wars Galactic Duel', 'Projeto de duelo temático de Star Wars desenvolvido com React.'],
         ['Just in Time', 'Projeto full-stack desenvolvido para praticar uma aplicação completa.'],
         ['Escola Avaliação', 'Projeto de avaliação escolar com interface e backend.'],
@@ -110,7 +112,7 @@ const resources = {
         whatsapp: 'A coffee shop interface built with React, JavaScript, and Vite.'
       },
       contact: { eyebrow: 'Let’s talk', title: 'Have an idea to build?', description: 'Let’s turn your idea into a digital product.', email: 'Email', social: 'You can also find me on' },
-      archive: { eyebrow: 'Projects / 36 selected', title: 'Ideas transformed<br>into <span>digital experiences.</span>', description: 'Projects built with C, Flutter, Python, React, and web and backend technologies.', all: 'All', c: 'C', flutter: 'Flutter', frontend: 'Frontend', python: 'Python', react: 'React', fullstack: 'Full-stack', backend: 'Backend', hint: 'Hover over a card to see its description.', github: 'View on GitHub', visit: 'Visit website', groups: [['Mobile applications', '17 projects across 19 repositories using Dart, Flutter, and API integrations.'], ['Programming fundamentals', '2 repositories with logic, exercises, and structured programming.'], ['Web experiences', '6 projects with HTML, CSS, JavaScript, React, and Vite.'], ['Python algorithms', '1 repository with exercises and programming logic.'], ['React interfaces', '1 interactive interface project built with React.'], ['Complete applications', '8 projects integrating frontend, backend, and data.'], ['APIs and services', '1 backend repository for Flutter integration.']] },
+      archive: { eyebrow: 'Projects / 38 selected', title: 'Ideas transformed<br>into <span>digital experiences.</span>', description: 'Projects built with C, Flutter, Python, React, and web and backend technologies.', all: 'All', c: 'C', flutter: 'Flutter', frontend: 'Frontend', python: 'Python', react: 'React', fullstack: 'Full-stack', backend: 'Backend', hint: 'Hover over a card to see its description.', github: 'View on GitHub', visit: 'Visit website', groups: [['Mobile applications', '17 projects across 19 repositories using Dart, Flutter, and API integrations.'], ['Programming fundamentals', '2 repositories with logic, exercises, and structured programming.'], ['Web experiences', '7 projects with HTML, CSS, JavaScript, React, Vite, and API integration.'], ['Python projects', '2 projects with algorithms and a Flask web application.'], ['React interfaces', '1 interactive interface project built with React.'], ['Complete applications', '8 projects integrating frontend, backend, and data.'], ['APIs and services', '1 backend repository for Flutter integration.']] },
       cards: [
         ['Financing', 'An app to simulate financing amounts, installments, and terms.'],
         ['Flutter Quiz', 'A question-and-answer application with interaction and scoring.'],
@@ -137,7 +139,9 @@ const resources = {
         ['Rock, Paper, Scissors', 'A web version of the classic game built with JavaScript logic.'],
         ['2026 World Cup Album', 'A web app inspired by a World Cup collectible sticker album.'],
         ['Dollar Value', 'A web application to look up and display the dollar exchange rate.'],
+        ['Receitas Fullstack API', 'A recipe interface for browsing, creating, editing, and deleting recipes through a REST API.'],
         ['Python Algorithms', 'A repository of algorithms and exercises in Python.'],
+        ['Books with Flask', 'A book registration project with a web interface and a Flask API.'],
         ['Star Wars Galactic Duel', 'A Star Wars themed duel project built with React.'],
         ['Just in Time', 'A full-stack project built to practice a complete application.'],
         ['School Evaluation', 'A school evaluation project with an interface and backend.'],

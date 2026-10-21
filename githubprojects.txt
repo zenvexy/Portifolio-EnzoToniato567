@@ -28,10 +28,13 @@ https://github.com/EnzoToniato567/Truco-Cartas.git - https://enzotoniato567.gith
 https://github.com/EnzoToniato567/Pedra_Papel_Tesoura.git - https://enzotoniato567.github.io/Pedra_Papel_Tesoura
 https://github.com/EnzoToniato567/Album-Copa_2026.git - https://enzotoniato567.github.io/Album-Copa_2026
 https://github.com/EnzoToniato567/Valor-Dolar.git - https://enzotoniato567.github.io/Valor-Dolar
+https://github.com/EnzoToniato567/Receitas-Fullstack-API.git - https://enzotoniato567.github.io/Receitas-Fullstack-API/
 
 python
 
 https://github.com/EnzoToniato567/Python-Algoritmos.git
+https://github.com/EnzoToniato567/Flask-Python.git
+- https://enzotoniato567.github.io/Flask-Python/web/livros.html
 
 react 
 

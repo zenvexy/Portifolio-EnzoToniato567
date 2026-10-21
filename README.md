@@ -15,9 +15,5 @@ Portfólio pessoal para apresentar meus projetos, habilidades e formas de contat
 - Links para GitHub, e-mail, WhatsApp e Instagram
 - Layout responsivo para celular e desktop
 
-## Executar
-
-Abra o arquivo `index.html` no navegador com Live Server.
-
 ## Deploy
 O projeto já possui `vercel.json` para deploy.
