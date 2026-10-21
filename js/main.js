@@ -34,7 +34,7 @@ const resources = {
         whatsapp: 'Interface de uma cafeteria construída com React, JavaScript e Vite.'
       },
       contact: { eyebrow: 'Vamos conversar', title: 'Tem uma ideia para construir?', description: 'Vamos transformar sua ideia em um produto digital.', email: 'E-mail', social: 'Também estou em' },
-      archive: { eyebrow: 'Projetos / 35 selecionados', title: 'Ideias transformadas<br>em <span>experiências digitais.</span>', description: 'Projetos desenvolvidos com C, Flutter, Python, React e soluções web e backend.', all: 'Todos', c: 'C', flutter: 'Flutter', frontend: 'Frontend', python: 'Python', react: 'React', fullstack: 'Full-stack', backend: 'Backend', hint: 'Passe o cursor sobre um card para ver a descrição.', github: 'Ver no GitHub', visit: 'Visitar site', groups: [['Aplicativos mobile', '17 projetos em 19 repositórios com Dart, Flutter e integrações com APIs.'], ['Fundamentos de programação', '2 repositórios com lógica, exercícios e programação estruturada.'], ['Experiências para web', '6 projetos com HTML, CSS, JavaScript, React e Vite.'], ['Algoritmos em Python', '1 repositório com exercícios e lógica de programação.'], ['Interfaces em React', '1 projeto de interface interativa com React.'], ['Aplicações completas', '7 projetos com integração entre frontend, backend e dados.'], ['APIs e serviços', '1 repositório de backend para integração com Flutter.']] },
+      archive: { eyebrow: 'Projetos / 36 selecionados', title: 'Ideias transformadas<br>em <span>experiências digitais.</span>', description: 'Projetos desenvolvidos com C, Flutter, Python, React e soluções web e backend.', all: 'Todos', c: 'C', flutter: 'Flutter', frontend: 'Frontend', python: 'Python', react: 'React', fullstack: 'Full-stack', backend: 'Backend', hint: 'Passe o cursor sobre um card para ver a descrição.', github: 'Ver no GitHub', visit: 'Visitar site', groups: [['Aplicativos mobile', '17 projetos em 19 repositórios com Dart, Flutter e integrações com APIs.'], ['Fundamentos de programação', '2 repositórios com lógica, exercícios e programação estruturada.'], ['Experiências para web', '6 projetos com HTML, CSS, JavaScript, React e Vite.'], ['Algoritmos em Python', '1 repositório com exercícios e lógica de programação.'], ['Interfaces em React', '1 projeto de interface interativa com React.'], ['Aplicações completas', '8 projetos com integração entre frontend, backend e dados.'], ['APIs e serviços', '1 repositório de backend para integração com Flutter.']] },
       cards: [
         ['Financiamento', 'Aplicativo para simular valores, parcelas e condições de financiamento.'],
         ['Quiz Flutter', 'Aplicativo de perguntas e respostas com interação e pontuação.'],
@@ -70,6 +70,7 @@ const resources = {
         ['UltraTech Store', 'Projeto de loja online com interface e backend.'],
         ['GitParty', 'Aplicação full-stack criada para explorar integração entre frontend e backend.'],
         ['Estacionamento', 'Sistema full-stack voltado ao controle e gerenciamento de estacionamento.'],
+        ['Eventos Climáticos', 'Aplicação web para registrar e acompanhar eventos climáticos por usuário, com interface, API e banco de dados.'],
         ['Backend Receitas Flutter', 'Backend de receitas para integração com aplicativo Flutter.']
       ]
     }
@@ -109,7 +110,7 @@ const resources = {
         whatsapp: 'A coffee shop interface built with React, JavaScript, and Vite.'
       },
       contact: { eyebrow: 'Let’s talk', title: 'Have an idea to build?', description: 'Let’s turn your idea into a digital product.', email: 'Email', social: 'You can also find me on' },
-      archive: { eyebrow: 'Projects / 35 selected', title: 'Ideas transformed<br>into <span>digital experiences.</span>', description: 'Projects built with C, Flutter, Python, React, and web and backend technologies.', all: 'All', c: 'C', flutter: 'Flutter', frontend: 'Frontend', python: 'Python', react: 'React', fullstack: 'Full-stack', backend: 'Backend', hint: 'Hover over a card to see its description.', github: 'View on GitHub', visit: 'Visit website', groups: [['Mobile applications', '17 projects across 19 repositories using Dart, Flutter, and API integrations.'], ['Programming fundamentals', '2 repositories with logic, exercises, and structured programming.'], ['Web experiences', '6 projects with HTML, CSS, JavaScript, React, and Vite.'], ['Python algorithms', '1 repository with exercises and programming logic.'], ['React interfaces', '1 interactive interface project built with React.'], ['Complete applications', '7 projects integrating frontend, backend, and data.'], ['APIs and services', '1 backend repository for Flutter integration.']] },
+      archive: { eyebrow: 'Projects / 36 selected', title: 'Ideas transformed<br>into <span>digital experiences.</span>', description: 'Projects built with C, Flutter, Python, React, and web and backend technologies.', all: 'All', c: 'C', flutter: 'Flutter', frontend: 'Frontend', python: 'Python', react: 'React', fullstack: 'Full-stack', backend: 'Backend', hint: 'Hover over a card to see its description.', github: 'View on GitHub', visit: 'Visit website', groups: [['Mobile applications', '17 projects across 19 repositories using Dart, Flutter, and API integrations.'], ['Programming fundamentals', '2 repositories with logic, exercises, and structured programming.'], ['Web experiences', '6 projects with HTML, CSS, JavaScript, React, and Vite.'], ['Python algorithms', '1 repository with exercises and programming logic.'], ['React interfaces', '1 interactive interface project built with React.'], ['Complete applications', '8 projects integrating frontend, backend, and data.'], ['APIs and services', '1 backend repository for Flutter integration.']] },
       cards: [
         ['Financing', 'An app to simulate financing amounts, installments, and terms.'],
         ['Flutter Quiz', 'A question-and-answer application with interaction and scoring.'],
@@ -145,6 +146,7 @@ const resources = {
         ['UltraTech Store', 'An online store project with an interface and backend.'],
         ['GitParty', 'A full-stack application built to explore frontend and backend integration.'],
         ['Parking', 'A full-stack system for parking control and management.'],
+        ['Climate Events', 'A web app to record and track user-specific climate events with an interface, API, and database.'],
         ['Flutter Recipes Backend', 'A recipe backend for integration with a Flutter app.']
       ]
     }
