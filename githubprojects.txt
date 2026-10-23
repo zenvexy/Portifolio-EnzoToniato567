@@ -35,6 +35,9 @@ python
 https://github.com/EnzoToniato567/Python-Algoritmos.git
 https://github.com/EnzoToniato567/Flask-Python.git
 - https://enzotoniato567.github.io/Flask-Python/web/livros.html
+https://github.com/EnzoToniato567/Desafios-Python.git
+https://github.com/EnzoToniato567/FastAPI-Python.git
+- https://enzotoniato567.github.io/FastAPI-Python
 
 react 
 
