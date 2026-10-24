@@ -38,6 +38,8 @@ https://github.com/EnzoToniato567/Flask-Python.git
 https://github.com/EnzoToniato567/Desafios-Python.git
 https://github.com/EnzoToniato567/FastAPI-Python.git
 - https://enzotoniato567.github.io/FastAPI-Python
+https://github.com/EnzoToniato567/Django-Python.git
+- https://enzotoniato567.github.io/Django-Python
 
 react 
 
