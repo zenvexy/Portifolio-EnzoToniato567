@@ -1,19 +1,45 @@
-# Portfólio | Enzo Toniato
+# Flutter Quiz 2026
 
-Portfólio pessoal para apresentar meus projetos, habilidades e formas de contato.
+Quiz interativo desenvolvido com Flutter e Dart, com perguntas de múltipla escolha, feedback visual de acerto/erro e tela de resultado personalizada.
 
-## Tecnologias
+---
 
-- HTML, CSS e JavaScript
-- i18next para tradução em Português e Inglês
-- Temas Emerald, Cyan e Claro
+## Como rodar o projeto
 
-## Recursos
+**Pré-requisitos:** ter o Flutter instalado. Se não tiver, siga o guia oficial: https://docs.flutter.dev/get-started/install
 
-- Página inicial com apresentação, sobre, skills e projetos em destaque
-- Página com projetos Flutter, C, Frontend, Python, React, Full-stack e Backend
-- Links para GitHub, e-mail, WhatsApp e Instagram
-- Layout responsivo para celular e desktop
+```bash
+# 1. Clone o repositório
+git clone https://github.com/zenvexy/Quiz-Flutter-2026.git
 
-## Deploy
-O projeto já possui `vercel.json` para deploy.
+# 2. Entre na pasta do projeto
+cd flutter_quiz_2026
+
+# 3. Instale as dependências
+flutter pub get
+
+# 4. Rode o app
+flutter run
+```
+
+---
+
+## Tecnologias utilizadas
+
+- Flutter
+- Dart
+- VS Code
+- Git
+- GitHub
+
+---
+
+## Screenshots
+
+<div align="center">
+
+| Splash | Quiz | Resultado |
+|--------|------|-----------|
+| ![Splash](./flutter_quiz_2026/assets/screens/screen1.png) | ![Quiz](./flutter_quiz_2026/assets/screens/screen2.png) | ![Resultado](./flutter_quiz_2026/assets/screens/screen3.png) |
+
+</div>
