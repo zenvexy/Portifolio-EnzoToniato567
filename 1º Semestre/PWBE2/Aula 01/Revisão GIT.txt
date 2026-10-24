@@ -1,6 +1,6 @@
 //Clonar/Copiar repositório web
 
-git clone https://github.com/zenvexy/SENAI_2026.git
+git clone https://github.com/EnzoToniato567/SENAI_2026.git
 
 //Atualizar repositório web
 
